@@ -4,4 +4,4 @@ __pycache__/
 data/candidates.jsonl
 data/*.jsonl
 artifacts/jd_embedding.npy
-.env
+.env.DS_Store
