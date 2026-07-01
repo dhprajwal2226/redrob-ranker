@@ -1,0 +1,501 @@
+candidate_id,composite_score,semantic_score,skill_score,structural_score,behavioral_score,current_title,current_company,location,years_of_experience
+CAND_0018499,0.793,0.8253,0.4167,1.0,1.0,Senior Machine Learning Engineer,Zomato,"Noida, Uttar Pradesh",7.2
+CAND_0081846,0.7916,0.788,0.5833,0.85,1.0,Lead AI Engineer,Razorpay,"Jaipur, Rajasthan",6.7
+CAND_0077337,0.7829,0.8225,0.5,0.85,1.0,Staff Machine Learning Engineer,Paytm,"Kochi, Kerala",7.0
+CAND_0068351,0.7763,0.8015,0.4167,1.0,0.958,Lead AI Engineer,Sarvam AI,"Delhi, Delhi",6.4
+CAND_0007009,0.7719,0.765,0.4167,1.0,1.0,Recommendation Systems Engineer,Wysa,"Noida, Uttar Pradesh",7.9
+CAND_0066999,0.768,0.7537,0.4167,1.0,1.0,Recommendation Systems Engineer,Microsoft,"Delhi, Delhi",5.9
+CAND_0027691,0.7677,0.7529,0.4167,1.0,1.0,NLP Engineer,Haptik,"Pune, Maharashtra",6.5
+CAND_0006567,0.7663,0.8086,0.3333,1.0,1.0,Senior AI Engineer,Meta,"Noida, Uttar Pradesh",7.9
+CAND_0075469,0.766,0.748,0.4167,1.0,1.0,Customer Support,Pied Piper,"Hyderabad, Telangana",5.4
+CAND_0093193,0.7628,0.8083,0.3333,1.0,0.983,Senior Machine Learning Engineer,Niramai,"Bangalore, Karnataka",7.9
+CAND_0000031,0.7573,0.7829,0.3333,1.0,1.0,Recommendation Systems Engineer,Swiggy,"Hyderabad, Telangana",6.0
+CAND_0046525,0.7568,0.8408,0.25,1.0,1.0,Senior Machine Learning Engineer,Genpact AI,"Pune, Maharashtra",6.1
+CAND_0041669,0.7547,0.7755,0.3333,1.0,1.0,Recommendation Systems Engineer,CRED,"Noida, Uttar Pradesh",8.0
+CAND_0079764,0.7544,0.7191,0.4167,1.0,0.993,Customer Support,Pied Piper,"Delhi, Delhi",8.9
+CAND_0046064,0.7539,0.7991,0.4167,0.85,1.0,Senior NLP Engineer,Salesforce,"Coimbatore, Tamil Nadu",8.9
+CAND_0032919,0.7532,0.7196,0.4167,1.0,0.986,Project Manager,Stark Industries,"Delhi, Delhi",7.0
+CAND_0015967,0.7527,0.7698,0.3333,1.0,1.0,Senior Software Engineer (ML),Razorpay,"Hyderabad, Telangana",5.4
+CAND_0071974,0.7527,0.7957,0.4167,0.85,1.0,Senior AI Engineer,Netflix,"Vizag, Andhra Pradesh",7.8
+CAND_0064326,0.7505,0.7896,0.4167,0.85,1.0,Search Engineer,Sarvam AI,"Gurgaon, Haryana",7.6
+CAND_0096104,0.749,0.7598,0.3333,1.0,0.999,AI Specialist,Yellow.ai,"Delhi, Delhi",7.0
+CAND_0017960,0.7477,0.7553,0.3333,1.0,1.0,Recommendation Systems Engineer,Nykaa,"Bangalore, Karnataka",7.7
+CAND_0071321,0.7458,0.7631,0.3333,1.0,0.977,Senior Software Engineer,Meesho,"Bangalore, Karnataka",6.4
+CAND_0061257,0.7446,0.8059,0.25,1.0,1.0,Staff Machine Learning Engineer,LinkedIn,"Noida, Uttar Pradesh",8.0
+CAND_0090656,0.7444,0.6863,0.4167,1.0,1.0,Graphic Designer,Stark Industries,"Pune, Maharashtra",5.1
+CAND_0070398,0.7437,0.7793,0.5,0.85,0.88,Machine Learning Engineer,Genpact AI,"Kochi, Kerala",7.2
+CAND_0066376,0.7432,0.7668,0.4167,1.0,0.853,Applied ML Engineer,Dream11,"Mumbai, Maharashtra",5.7
+CAND_0002336,0.7431,0.6826,0.4167,1.0,1.0,Accountant,Hooli,"Noida, Uttar Pradesh",8.7
+CAND_0076163,0.7423,0.766,0.4167,0.85,1.0,NLP Engineer,Ola,"Chandigarh, Chandigarh",6.9
+CAND_0037006,0.7416,0.7103,0.4167,1.0,0.944,Civil Engineer,Acme Corp,"Mumbai, Maharashtra",6.5
+CAND_0018701,0.7413,0.7372,0.3333,1.0,1.0,Junior ML Engineer,Krutrim,"Delhi, Delhi",6.0
+CAND_0096142,0.7413,0.7645,0.3333,1.0,0.952,Applied ML Engineer,upGrad,"Hyderabad, Telangana",5.0
+CAND_0018094,0.74,0.7333,0.3333,1.0,1.0,ML Engineer,Mad Street Den,"Bangalore, Karnataka",5.2
+CAND_0076526,0.7399,0.7267,0.4167,1.0,0.907,Customer Support,Globex Inc,"Noida, Uttar Pradesh",7.0
+CAND_0062413,0.7393,0.7315,0.3333,1.0,1.0,AI Research Engineer,upGrad,"Mumbai, Maharashtra",6.6
+CAND_0098952,0.7393,0.7585,0.4167,0.85,0.998,AI Research Engineer,CRED,"Gurgaon, Haryana",5.5
+CAND_0037883,0.7392,0.7281,0.4167,1.0,0.901,Mechanical Engineer,Hooli,"Bangalore, Karnataka",6.6
+CAND_0052682,0.7385,0.7553,0.4167,0.85,1.0,NLP Engineer,Aganitha,"Vizag, Andhra Pradesh",6.6
+CAND_0030031,0.7385,0.7656,0.4167,0.85,0.982,AI Engineer,Microsoft,"Trivandrum, Kerala",5.7
+CAND_0014320,0.7369,0.7044,0.4167,1.0,0.931,Customer Support,Globex Inc,"Bangalore, Karnataka",5.2
+CAND_0045250,0.7369,0.7692,0.3333,1.0,0.922,Applied ML Engineer,Rephrase.ai,"Delhi, Delhi",6.6
+CAND_0067866,0.7368,0.7839,0.25,1.0,1.0,Senior Software Engineer (ML),Tech Mahindra,"Noida, Uttar Pradesh",6.4
+CAND_0053605,0.7366,0.7832,0.25,1.0,1.0,Senior Software Engineer (ML),Verloop.io,"Noida, Uttar Pradesh",6.9
+CAND_0061265,0.7365,0.7932,0.25,1.0,0.982,Recommendation Systems Engineer,Zoho,"Delhi, Delhi",6.6
+CAND_0037160,0.7358,0.7212,0.3333,1.0,1.0,Data Scientist,Haptik,"Mumbai, Maharashtra",6.0
+CAND_0037566,0.7341,0.776,0.25,1.0,1.0,Machine Learning Engineer,LinkedIn,"Bangalore, Karnataka",6.9
+CAND_0080204,0.734,0.7161,0.3333,1.0,1.0,Mechanical Engineer,Dunder Mifflin,"Hyderabad, Telangana",7.2
+CAND_0052328,0.7337,0.7748,0.25,1.0,1.0,Recommendation Systems Engineer,Amazon,"Pune, Maharashtra",6.5
+CAND_0049336,0.7336,0.715,0.3333,1.0,1.0,Sales Executive,Stark Industries,"Noida, Uttar Pradesh",8.6
+CAND_0088240,0.7331,0.7137,0.3333,1.0,1.0,Content Writer,Hooli,"Bangalore, Karnataka",7.7
+CAND_0062247,0.7325,0.7977,0.3333,0.85,1.0,AI Engineer,Google,"Kochi, Kerala",7.3
+CAND_0053472,0.7324,0.7772,0.4167,1.0,0.781,Senior Software Engineer (ML),HCL,"Noida, Uttar Pradesh",6.5
+CAND_0015578,0.7318,0.7701,0.3333,1.0,0.895,AI Engineer,Zoho,"Delhi, Delhi",5.4
+CAND_0039977,0.7316,0.7269,0.4167,1.0,0.865,Civil Engineer,Globex Inc,"Mumbai, Maharashtra",8.9
+CAND_0083307,0.7316,0.7871,0.4167,0.85,0.91,Search Engineer,CRED,"Vizag, Andhra Pradesh",7.8
+CAND_0022870,0.7315,0.7146,0.5,0.85,0.932,AI Specialist,HCL,"Ahmedabad, Gujarat",6.7
+CAND_0088064,0.7313,0.7347,0.4167,0.85,1.0,Customer Support,Acme Corp,"Bhubaneswar, Odisha",8.8
+CAND_0026316,0.7309,0.7398,0.4167,0.85,0.989,Customer Support,Hooli,"Gurgaon, Haryana",5.3
+CAND_0046459,0.7307,0.7616,0.4167,0.8,1.0,AI Research Engineer,upGrad,"Pune, Maharashtra",4.5
+CAND_0041610,0.7305,0.7918,0.3333,0.85,1.0,Recommendation Systems Engineer,Zoho,"Indore, Madhya Pradesh",6.7
+CAND_0030570,0.7303,0.6827,0.4167,1.0,0.936,Content Writer,Pied Piper,"Bangalore, Karnataka",6.5
+CAND_0088025,0.7288,0.8161,0.3333,0.85,0.949,Staff Machine Learning Engineer,Yellow.ai,"Jaipur, Rajasthan",8.6
+CAND_0030468,0.7287,0.7867,0.3333,0.85,1.0,Senior Applied Scientist,Swiggy,"Indore, Madhya Pradesh",5.4
+CAND_0011687,0.7285,0.7863,0.3333,0.85,1.0,Senior NLP Engineer,Niramai,"Indore, Madhya Pradesh",7.8
+CAND_0066395,0.7281,0.7151,0.4167,1.0,0.868,Sales Executive,Pied Piper,"Pune, Maharashtra",6.7
+CAND_0055905,0.7281,0.8111,0.4167,0.7,1.0,Senior Machine Learning Engineer,Flipkart,London,8.1
+CAND_0098780,0.728,0.7752,0.25,1.0,0.971,AI Research Engineer,Zomato,"Bangalore, Karnataka",5.9
+CAND_0005649,0.7279,0.7726,0.3333,1.0,0.871,Senior Data Scientist,Sarvam AI,"Delhi, Delhi",7.4
+CAND_0001644,0.7277,0.7234,0.3333,1.0,0.956,Business Analyst,Acme Corp,"Pune, Maharashtra",8.7
+CAND_0008425,0.7276,0.7825,0.4167,0.85,0.898,Senior NLP Engineer,Ola,"Kolkata, West Bengal",7.8
+CAND_0094370,0.7275,0.7239,0.4167,0.85,1.0,Business Analyst,Dunder Mifflin,"Jaipur, Rajasthan",8.4
+CAND_0016317,0.7273,0.7231,0.4167,0.85,1.0,Project Manager,Acme Corp,"Ahmedabad, Gujarat",6.5
+CAND_0002025,0.7273,0.8422,0.25,0.85,1.0,Senior AI Engineer,Apple,"Trivandrum, Kerala",5.9
+CAND_0027640,0.7267,0.7317,0.4167,1.0,0.832,Marketing Manager,Globex Inc,"Bangalore, Karnataka",8.7
+CAND_0033991,0.7263,0.7203,0.4167,0.85,1.0,Mechanical Engineer,Wayne Enterprises,"Chennai, Tamil Nadu",7.5
+CAND_0068811,0.7263,0.7538,0.25,1.0,1.0,Applied ML Engineer,Freshworks,"Pune, Maharashtra",8.0
+CAND_0081480,0.7263,0.7536,0.25,1.0,1.0,Computer Vision Engineer,Sarvam AI,"Noida, Uttar Pradesh",5.6
+CAND_0008295,0.7259,0.7524,0.25,1.0,1.0,AI Research Engineer,Razorpay,"Pune, Maharashtra",6.5
+CAND_0007351,0.725,0.7168,0.4167,0.85,1.0,Business Analyst,Hooli,"Vizag, Andhra Pradesh",5.1
+CAND_0010541,0.725,0.7633,0.25,1.0,0.977,AI Research Engineer,Wysa,"Hyderabad, Telangana",6.2
+CAND_0007052,0.7249,0.7497,0.25,1.0,1.0,ML Engineer,Unacademy,"Pune, Maharashtra",6.5
+CAND_0077498,0.7248,0.7758,0.3333,0.85,1.0,Senior Software Engineer (ML),Niramai,"Ahmedabad, Gujarat",5.4
+CAND_0056182,0.7246,0.69,0.3333,1.0,0.999,Mechanical Engineer,Initech,"Noida, Uttar Pradesh",8.9
+CAND_0048615,0.7244,0.7177,0.4167,1.0,0.845,Graphic Designer,Wayne Enterprises,"Hyderabad, Telangana",7.2
+CAND_0073874,0.7238,0.7089,0.3333,1.0,0.962,Operations Manager,Pied Piper,"Noida, Uttar Pradesh",6.5
+CAND_0005311,0.7237,0.7537,0.25,1.0,0.987,AI Research Engineer,Aganitha,"Mumbai, Maharashtra",5.7
+CAND_0040117,0.7236,0.7723,0.3333,0.85,1.0,Recommendation Systems Engineer,PhonePe,"Vizag, Andhra Pradesh",6.5
+CAND_0024620,0.7236,0.7829,0.5,0.7,0.923,AI Engineer,PharmEasy,New York,5.9
+CAND_0012918,0.7235,0.7308,0.3333,1.0,0.922,Project Manager,Globex Inc,"Noida, Uttar Pradesh",8.5
+CAND_0036184,0.7231,0.7708,0.3333,0.85,1.0,Recommendation Systems Engineer,CRED,"Trivandrum, Kerala",6.0
+CAND_0094292,0.723,0.7676,0.25,1.0,0.959,AI Specialist,Vedantu,"Mumbai, Maharashtra",6.5
+CAND_0070525,0.7229,0.8035,0.1667,1.0,1.0,Senior Software Engineer (ML),Mad Street Den,"Hyderabad, Telangana",5.4
+CAND_0030946,0.7227,0.7331,0.3333,1.0,0.914,Junior ML Engineer,Yellow.ai,"Mumbai, Maharashtra",6.7
+CAND_0042506,0.7227,0.7982,0.3333,0.8,1.0,Search Engineer,Verloop.io,"Mumbai, Maharashtra",4.2
+CAND_0064215,0.7226,0.7317,0.3333,1.0,0.916,Civil Engineer,Dunder Mifflin,"Hyderabad, Telangana",8.7
+CAND_0081203,0.7222,0.7127,0.4167,0.85,0.993,Operations Manager,Wayne Enterprises,"Vizag, Andhra Pradesh",7.7
+CAND_0095528,0.7221,0.7879,0.3333,0.85,0.965,Senior Data Scientist,Netflix,"Indore, Madhya Pradesh",5.3
+CAND_0046434,0.722,0.7155,0.3333,1.0,0.941,Sales Executive,Dunder Mifflin,"Pune, Maharashtra",7.8
+CAND_0093883,0.7219,0.7262,0.4167,0.85,0.968,AI Research Engineer,Wysa,"Bhubaneswar, Odisha",5.0
+CAND_0013440,0.7217,0.7406,0.25,1.0,1.0,Senior Data Engineer,upGrad,"Noida, Uttar Pradesh",7.2
+CAND_0079064,0.7215,0.7554,0.25,1.0,0.973,Senior Data Scientist,Niramai,"Noida, Uttar Pradesh",5.2
+CAND_0076412,0.7211,0.7582,0.3333,1.0,0.862,AI Research Engineer,Wysa,"Noida, Uttar Pradesh",5.8
+CAND_0049120,0.721,0.6803,0.3333,1.0,0.998,Project Manager,Wayne Enterprises,"Pune, Maharashtra",7.4
+CAND_0052994,0.721,0.7053,0.4167,0.85,1.0,HR Manager,Stark Industries,"Gurgaon, Haryana",6.6
+CAND_0019848,0.721,0.7079,0.4167,0.85,0.995,Operations Manager,Dunder Mifflin,"Trivandrum, Kerala",5.9
+CAND_0002969,0.7209,0.7261,0.3333,1.0,0.917,Senior Data Engineer,Unacademy,"Noida, Uttar Pradesh",6.9
+CAND_0025640,0.7209,0.7644,0.3333,0.85,1.0,AI Research Engineer,HCL,"Jaipur, Rajasthan",5.6
+CAND_0081852,0.7207,0.7766,0.25,1.0,0.932,Senior Data Scientist,Mad Street Den,"Delhi, Delhi",5.9
+CAND_0079387,0.7204,0.7629,0.3333,0.85,1.0,AI Engineer,Microsoft,"Trivandrum, Kerala",6.9
+CAND_0088703,0.7203,0.7136,0.4167,1.0,0.832,Customer Support,Dunder Mifflin,"Bangalore, Karnataka",5.4
+CAND_0032147,0.7203,0.7031,0.4167,0.85,1.0,Accountant,Stark Industries,"Jaipur, Rajasthan",8.2
+CAND_0024878,0.7199,0.7615,0.3333,0.85,1.0,AI Specialist,HCL,"Vizag, Andhra Pradesh",5.7
+CAND_0043860,0.7199,0.7616,0.3333,0.85,1.0,Junior ML Engineer,Aganitha,"Bhubaneswar, Odisha",6.1
+CAND_0048079,0.7196,0.6938,0.4167,1.0,0.863,Sales Executive,Hooli,"Noida, Uttar Pradesh",7.8
+CAND_0072407,0.7196,0.7042,0.4167,0.85,0.995,Civil Engineer,Hooli,"Chennai, Tamil Nadu",7.3
+CAND_0075574,0.7196,0.7495,0.25,1.0,0.974,Machine Learning Engineer,Haptik,"Bangalore, Karnataka",5.7
+CAND_0050454,0.7195,0.7937,0.1667,1.0,1.0,AI Engineer,Rephrase.ai,"Delhi, Delhi",6.8
+CAND_0064618,0.7193,0.7005,0.4167,0.85,1.0,Project Manager,Initech,"Bhubaneswar, Odisha",5.7
+CAND_0005260,0.7193,0.7814,0.4167,0.85,0.858,Senior NLP Engineer,Netflix,"Chennai, Tamil Nadu",5.2
+CAND_0078635,0.719,0.723,0.3333,1.0,0.913,Software Engineer,Tech Mahindra,"Noida, Uttar Pradesh",7.9
+CAND_0048558,0.719,0.7329,0.25,1.0,1.0,Data Scientist,Rephrase.ai,"Noida, Uttar Pradesh",6.7
+CAND_0051004,0.7187,0.7867,0.3333,0.8,1.0,Senior Data Scientist,CRED,"Delhi, Delhi",4.7
+CAND_0036593,0.7183,0.7261,0.4167,0.8,1.0,Sales Executive,Stark Industries,"Delhi, Delhi",10.1
+CAND_0038382,0.7182,0.7281,0.4167,1.0,0.796,HR Manager,Wayne Enterprises,"Bangalore, Karnataka",7.0
+CAND_0024526,0.7179,0.7234,0.3333,1.0,0.907,Sales Executive,Initech,"Mumbai, Maharashtra",5.2
+CAND_0040200,0.7179,0.7524,0.3333,1.0,0.856,AI Research Engineer,PharmEasy,"Pune, Maharashtra",5.5
+CAND_0036598,0.7178,0.6773,0.4167,1.0,0.883,Civil Engineer,Initech,"Mumbai, Maharashtra",7.3
+CAND_0036778,0.7178,0.7162,0.3333,1.0,0.919,Marketing Manager,Stark Industries,"Hyderabad, Telangana",9.0
+CAND_0006418,0.7178,0.7557,0.3333,0.85,1.0,Machine Learning Engineer,Verloop.io,"Gurgaon, Haryana",5.7
+CAND_0079407,0.7175,0.7432,0.4167,0.85,0.916,Project Manager,Acme Corp,"Bhubaneswar, Odisha",7.5
+CAND_0023396,0.7172,0.7356,0.25,1.0,0.986,Data Engineer,Initech,"Noida, Uttar Pradesh",7.4
+CAND_0086022,0.7167,0.8119,0.25,0.85,1.0,Senior Applied Scientist,Sarvam AI,"Kolkata, West Bengal",5.3
+CAND_0025658,0.7165,0.7257,0.25,1.0,1.0,Marketing Manager,Dunder Mifflin,"Delhi, Delhi",7.6
+CAND_0066758,0.7164,0.7217,0.4167,1.0,0.798,Project Manager,Hooli,"Noida, Uttar Pradesh",8.9
+CAND_0096777,0.7164,0.7169,0.3333,1.0,0.911,Business Analyst,Pied Piper,"Hyderabad, Telangana",7.7
+CAND_0070514,0.7164,0.7254,0.25,1.0,1.0,AI Specialist,Glance,"Bangalore, Karnataka",5.5
+CAND_0062751,0.7162,0.7202,0.4167,0.8,1.0,Mechanical Engineer,Acme Corp,"Delhi, Delhi",9.7
+CAND_0050064,0.7156,0.7224,0.4167,1.0,0.793,Sales Executive,Hooli,"Delhi, Delhi",5.9
+CAND_0058340,0.7152,0.6886,0.4167,0.85,1.0,Sales Executive,Stark Industries,"Trivandrum, Kerala",8.2
+CAND_0066623,0.7152,0.7454,0.25,1.0,0.959,Senior Data Engineer,Nykaa,"Hyderabad, Telangana",6.3
+CAND_0037980,0.7151,0.8074,0.25,0.85,1.0,Senior Applied Scientist,Niramai,"Kolkata, West Bengal",9.0
+CAND_0099288,0.7149,0.6878,0.4167,0.85,1.0,Content Writer,Stark Industries,"Kolkata, West Bengal",7.4
+CAND_0020954,0.7148,0.7093,0.3333,1.0,0.916,Senior Software Engineer,Swiggy,"Pune, Maharashtra",7.1
+CAND_0073007,0.7143,0.779,0.1667,1.0,1.0,AI Specialist,Aganitha,"Bangalore, Karnataka",5.8
+CAND_0011383,0.7141,0.7099,0.4167,1.0,0.807,Mechanical Engineer,Wayne Enterprises,"Noida, Uttar Pradesh",6.6
+CAND_0009734,0.7138,0.6915,0.4167,1.0,0.838,Accountant,Wayne Enterprises,"Pune, Maharashtra",8.6
+CAND_0024947,0.7138,0.7801,0.3333,0.85,0.937,AI Research Engineer,HCL,"Trivandrum, Kerala",6.1
+CAND_0010603,0.7137,0.7279,0.25,1.0,0.982,ML Engineer,BYJU'S,"Bangalore, Karnataka",5.3
+CAND_0004402,0.7136,0.7771,0.1667,1.0,1.0,AI Research Engineer,Yellow.ai,"Delhi, Delhi",6.0
+CAND_0074723,0.7135,0.6793,0.3333,1.0,0.962,Civil Engineer,Hooli,"Bangalore, Karnataka",8.0
+CAND_0044445,0.7134,0.7172,0.4167,0.85,0.941,Accountant,Globex Inc,"Ahmedabad, Gujarat",6.5
+CAND_0040178,0.7134,0.7368,0.25,1.0,0.965,ML Engineer,Meesho,"Pune, Maharashtra",5.0
+CAND_0030784,0.7134,0.7293,0.4167,0.8,0.97,Data Scientist,Yellow.ai,"Delhi, Delhi",4.4
+CAND_0099268,0.7129,0.7336,0.25,1.0,0.968,Customer Support,Stark Industries,"Hyderabad, Telangana",6.6
+CAND_0083005,0.7126,0.7343,0.4167,0.85,0.907,Mechanical Engineer,Globex Inc,"Vizag, Andhra Pradesh",5.4
+CAND_0002389,0.7123,0.7138,0.25,1.0,1.0,Analytics Engineer,Acme Corp,"Noida, Uttar Pradesh",5.3
+CAND_0010257,0.7123,0.7617,0.25,1.0,0.916,Senior Data Scientist,Google,"Noida, Uttar Pradesh",6.5
+CAND_0016282,0.7121,0.7243,0.4167,0.85,0.922,Content Writer,Hooli,"Jaipur, Rajasthan",7.1
+CAND_0071939,0.7119,0.7127,0.25,1.0,1.0,Data Scientist,Krutrim,"Pune, Maharashtra",6.4
+CAND_0033445,0.7118,0.7385,0.3333,0.85,1.0,ML Engineer,Vedantu,"Ahmedabad, Gujarat",6.8
+CAND_0067453,0.7115,0.7227,0.4167,0.85,0.922,Content Writer,Hooli,"Ahmedabad, Gujarat",5.8
+CAND_0007460,0.7115,0.7959,0.4167,0.8,0.844,AI Engineer,Salesforce,"Pune, Maharashtra",4.7
+CAND_0026162,0.7114,0.6898,0.4167,1.0,0.829,Business Analyst,Initech,"Bangalore, Karnataka",5.4
+CAND_0021406,0.7113,0.711,0.25,1.0,1.0,Software Engineer,Wayne Enterprises,"Mumbai, Maharashtra",7.3
+CAND_0072688,0.711,0.7101,0.25,1.0,1.0,Data Scientist,Niramai,"Pune, Maharashtra",6.9
+CAND_0057736,0.7108,0.7495,0.3333,0.85,0.976,Computer Vision Engineer,Mad Street Den,"Coimbatore, Tamil Nadu",6.2
+CAND_0058688,0.7108,0.7619,0.4167,0.7,1.0,AI Engineer,Vedantu,Berlin,6.7
+CAND_0037944,0.7108,0.7902,0.4167,0.65,1.0,Senior Data Scientist,Vedantu,"Jaipur, Rajasthan",4.9
+CAND_0078258,0.7107,0.7345,0.4167,0.8,0.947,Civil Engineer,Hooli,"Noida, Uttar Pradesh",4.8
+CAND_0046698,0.7102,0.7078,0.25,1.0,1.0,Graphic Designer,Dunder Mifflin,"Pune, Maharashtra",7.0
+CAND_0081086,0.7102,0.7637,0.25,1.0,0.902,AI Specialist,Observe.AI,"Noida, Uttar Pradesh",5.2
+CAND_0096916,0.7101,0.7073,0.25,1.0,1.0,Software Engineer,Pied Piper,"Pune, Maharashtra",6.3
+CAND_0088369,0.7097,0.6861,0.4167,0.85,0.977,Business Analyst,Pied Piper,"Ahmedabad, Gujarat",9.0
+CAND_0066652,0.7097,0.7138,0.3333,1.0,0.883,Graphic Designer,Initech,"Delhi, Delhi",5.1
+CAND_0019288,0.7097,0.7658,0.1667,1.0,1.0,AI Research Engineer,Paytm,"Noida, Uttar Pradesh",5.7
+CAND_0045064,0.7095,0.6935,0.4167,1.0,0.813,HR Manager,Initech,"Delhi, Delhi",7.8
+CAND_0093912,0.7094,0.7911,0.25,0.85,1.0,Senior Data Scientist,Razorpay,"Chandigarh, Chandigarh",5.3
+CAND_0063835,0.709,0.7202,0.4167,0.85,0.914,Business Analyst,Wayne Enterprises,"Indore, Madhya Pradesh",6.6
+CAND_0074523,0.7086,0.7032,0.25,1.0,1.0,Backend Engineer,Vedantu,"Delhi, Delhi",5.8
+CAND_0077285,0.7086,0.7475,0.3333,0.85,0.968,Recommendation Systems Engineer,Nykaa,"Ahmedabad, Gujarat",5.5
+CAND_0049978,0.7083,0.7879,0.25,0.85,1.0,Senior Software Engineer (ML),Sarvam AI,"Trivandrum, Kerala",6.6
+CAND_0051466,0.7082,0.7311,0.3333,0.85,0.995,AI Research Engineer,Niramai,"Trivandrum, Kerala",5.3
+CAND_0080766,0.7081,0.7863,0.3333,0.85,0.898,Staff Machine Learning Engineer,Salesforce,"Coimbatore, Tamil Nadu",8.8
+CAND_0052370,0.7079,0.6999,0.4167,0.85,0.944,Operations Manager,Stark Industries,"Vizag, Andhra Pradesh",7.4
+CAND_0098288,0.7079,0.7332,0.25,1.0,0.944,Junior ML Engineer,Vedantu,"Mumbai, Maharashtra",6.7
+CAND_0066276,0.7078,0.7316,0.4167,0.8,0.938,Civil Engineer,Globex Inc,"Delhi, Delhi",9.2
+CAND_0017093,0.7076,0.7004,0.25,1.0,1.0,ML Engineer,Zoho,"Hyderabad, Telangana",5.9
+CAND_0076156,0.7075,0.7261,0.3333,0.85,1.0,HR Manager,Globex Inc,"Coimbatore, Tamil Nadu",7.3
+CAND_0007412,0.7074,0.7408,0.25,1.0,0.928,Applied ML Engineer,Zoho,"Noida, Uttar Pradesh",7.4
+CAND_0099401,0.7073,0.7607,0.5833,0.85,0.626,NLP Engineer,Dream11,"Ahmedabad, Gujarat",7.7
+CAND_0041895,0.707,0.7283,0.3333,1.0,0.844,Civil Engineer,Wayne Enterprises,"Noida, Uttar Pradesh",8.9
+CAND_0059839,0.7069,0.7363,0.4167,0.8,0.925,Civil Engineer,Initech,"Delhi, Delhi",9.5
+CAND_0030348,0.7069,0.7748,0.3333,0.8,0.962,Machine Learning Engineer,BYJU'S,"Noida, Uttar Pradesh",4.5
+CAND_0001206,0.7067,0.6932,0.3333,1.0,0.904,Civil Engineer,Initech,"Pune, Maharashtra",8.8
+CAND_0008677,0.7067,0.7389,0.25,1.0,0.928,Senior Software Engineer,PolicyBazaar,"Pune, Maharashtra",5.8
+CAND_0013393,0.7067,0.7554,0.25,1.0,0.899,ML Engineer,Freshworks,"Bangalore, Karnataka",5.3
+CAND_0021488,0.7064,0.6969,0.25,1.0,1.0,Data Engineer,Nykaa,"Hyderabad, Telangana",6.5
+CAND_0096537,0.7064,0.7087,0.4167,0.8,0.971,HR Manager,Globex Inc,"Noida, Uttar Pradesh",4.0
+CAND_0072652,0.7063,0.7239,0.3333,0.85,0.998,Operations Manager,Acme Corp,"Indore, Madhya Pradesh",7.1
+CAND_0011162,0.7063,0.7656,0.3333,0.85,0.925,Recommendation Systems Engineer,upGrad,"Coimbatore, Tamil Nadu",5.8
+CAND_0043416,0.7062,0.7225,0.3333,0.85,1.0,Business Analyst,Hooli,"Chandigarh, Chandigarh",7.5
+CAND_0055627,0.706,0.6958,0.25,1.0,1.0,Data Analyst,HCL,"Mumbai, Maharashtra",6.9
+CAND_0039905,0.7059,0.7029,0.3333,1.0,0.883,Content Writer,Hooli,"Delhi, Delhi",6.8
+CAND_0039382,0.7058,0.7156,0.3333,1.0,0.86,Marketing Manager,Initech,"Pune, Maharashtra",7.8
+CAND_0068410,0.7057,0.7635,0.3333,0.85,0.926,Senior Software Engineer (ML),Unacademy,"Ahmedabad, Gujarat",5.8
+CAND_0023650,0.7056,0.6947,0.25,1.0,1.0,Analytics Engineer,Flipkart,"Delhi, Delhi",5.2
+CAND_0073314,0.7056,0.7539,0.1667,1.0,1.0,Senior Software Engineer (ML),Aganitha,"Noida, Uttar Pradesh",5.2
+CAND_0009024,0.7056,0.7803,0.25,0.85,1.0,Search Engineer,Google,"Chennai, Tamil Nadu",5.2
+CAND_0048669,0.7055,0.6914,0.3333,1.0,0.901,Marketing Manager,Initech,"Noida, Uttar Pradesh",8.7
+CAND_0091899,0.7054,0.7755,0.3333,1.0,0.753,Senior Software Engineer (ML),PhonePe,"Delhi, Delhi",5.8
+CAND_0071880,0.7054,0.7713,0.25,1.0,0.865,Senior Software Engineer (ML),Locobuzz,"Bangalore, Karnataka",5.8
+CAND_0035508,0.7053,0.6936,0.25,1.0,1.0,Data Analyst,Pied Piper,"Hyderabad, Telangana",7.2
+CAND_0013229,0.7053,0.7282,0.4167,1.0,0.731,Mechanical Engineer,Hooli,"Delhi, Delhi",5.5
+CAND_0079806,0.7053,0.7355,0.3333,1.0,0.823,Accountant,Hooli,"Pune, Maharashtra",8.4
+CAND_0038463,0.7053,0.7309,0.25,1.0,0.935,Civil Engineer,Globex Inc,"Noida, Uttar Pradesh",6.6
+CAND_0013524,0.7052,0.7248,0.3333,1.0,0.841,Customer Support,Initech,"Mumbai, Maharashtra",7.1
+CAND_0096466,0.705,0.7174,0.3333,1.0,0.853,HR Manager,Pied Piper,"Noida, Uttar Pradesh",7.0
+CAND_0064904,0.7049,0.785,0.3333,0.8,0.934,AI Engineer,LinkedIn,"Hyderabad, Telangana",4.9
+CAND_0062586,0.7044,0.7229,0.4167,0.85,0.886,Graphic Designer,Wayne Enterprises,"Trivandrum, Kerala",8.2
+CAND_0086682,0.7044,0.7353,0.25,1.0,0.923,Customer Support,Wayne Enterprises,"Pune, Maharashtra",5.4
+CAND_0017090,0.7042,0.7763,0.25,0.85,1.0,Senior Software Engineer (ML),Paytm,"Kochi, Kerala",5.5
+CAND_0094619,0.704,0.7241,0.3333,0.85,0.986,Accountant,Pied Piper,"Kochi, Kerala",7.3
+CAND_0005538,0.704,0.8081,0.25,0.85,0.943,Senior AI Engineer,Adobe,"Kolkata, West Bengal",5.9
+CAND_0080157,0.7039,0.6957,0.4167,1.0,0.781,Sales Executive,Hooli,"Pune, Maharashtra",6.1
+CAND_0082184,0.7037,0.7313,0.4167,0.85,0.868,Operations Manager,Stark Industries,"Gurgaon, Haryana",8.3
+CAND_0066649,0.7036,0.744,0.4167,0.8,0.895,Customer Support,Wayne Enterprises,"Hyderabad, Telangana",10.0
+CAND_0022615,0.7035,0.6885,0.4167,0.85,0.942,Operations Manager,Pied Piper,"Chandigarh, Chandigarh",8.1
+CAND_0018555,0.7034,0.6884,0.25,1.0,1.0,Backend Engineer,Zoho,"Bangalore, Karnataka",7.6
+CAND_0027450,0.7031,0.7272,0.4167,1.0,0.722,Civil Engineer,Acme Corp,"Pune, Maharashtra",7.5
+CAND_0067554,0.7031,0.7332,0.3333,1.0,0.816,Business Analyst,Wayne Enterprises,"Noida, Uttar Pradesh",5.4
+CAND_0038368,0.703,0.7421,0.25,1.0,0.904,ML Engineer,PhonePe,"Hyderabad, Telangana",5.4
+CAND_0093763,0.703,0.7603,0.1667,1.0,0.976,Senior Software Engineer (ML),Swiggy,"Noida, Uttar Pradesh",5.0
+CAND_0044222,0.703,0.7844,0.25,0.85,0.98,AI Engineer,PolicyBazaar,"Vizag, Andhra Pradesh",7.7
+CAND_0012324,0.7026,0.6912,0.3333,1.0,0.887,Project Manager,Stark Industries,"Noida, Uttar Pradesh",5.6
+CAND_0010939,0.7026,0.7177,0.4167,0.85,0.886,Marketing Manager,Wayne Enterprises,"Ahmedabad, Gujarat",8.7
+CAND_0017362,0.7026,0.7206,0.4167,0.85,0.881,Operations Manager,Wayne Enterprises,"Chennai, Tamil Nadu",5.1
+CAND_0039152,0.7025,0.7046,0.3333,1.0,0.863,Content Writer,Stark Industries,"Delhi, Delhi",5.2
+CAND_0042284,0.7025,0.7058,0.25,1.0,0.965,Operations Manager,Wayne Enterprises,"Mumbai, Maharashtra",7.9
+CAND_0091909,0.7025,0.748,0.1667,1.0,0.995,Machine Learning Engineer,Rephrase.ai,"Bangalore, Karnataka",6.9
+CAND_0097681,0.7024,0.7207,0.4167,0.85,0.88,Operations Manager,Globex Inc,"Vizag, Andhra Pradesh",8.4
+CAND_0092182,0.7024,0.7117,0.3333,0.85,1.0,Project Manager,Dunder Mifflin,"Jaipur, Rajasthan",8.0
+CAND_0031593,0.7024,0.7837,0.3333,0.85,0.874,Search Engineer,Genpact AI,"Kolkata, West Bengal",7.8
+CAND_0007596,0.7022,0.7397,0.3333,0.8,1.0,Junior ML Engineer,Flipkart,"Delhi, Delhi",4.4
+CAND_0024467,0.7017,0.7239,0.3333,0.85,0.975,Accountant,Hooli,"Kochi, Kerala",7.6
+CAND_0074735,0.7017,0.749,0.3333,0.85,0.931,Applied ML Engineer,Rephrase.ai,"Chandigarh, Chandigarh",5.5
+CAND_0073915,0.7015,0.6907,0.4167,0.85,0.928,Business Analyst,Acme Corp,"Coimbatore, Tamil Nadu",9.0
+CAND_0083910,0.7015,0.7075,0.25,1.0,0.957,Software Engineer,CRED,"Mumbai, Maharashtra",5.1
+CAND_0092255,0.7015,0.7319,0.25,1.0,0.914,ML Engineer,InMobi,"Noida, Uttar Pradesh",5.2
+CAND_0012888,0.7015,0.7423,0.1667,1.0,1.0,Junior ML Engineer,Genpact AI,"Delhi, Delhi",6.4
+CAND_0002525,0.7014,0.6931,0.4167,0.85,0.923,Content Writer,Dunder Mifflin,"Gurgaon, Haryana",7.7
+CAND_0072348,0.7014,0.7546,0.25,1.0,0.874,Senior Data Engineer,Freshworks,"Delhi, Delhi",5.8
+CAND_0002220,0.7013,0.7174,0.4167,1.0,0.73,Content Writer,Pied Piper,"Hyderabad, Telangana",5.8
+CAND_0064780,0.7013,0.7152,0.4167,0.85,0.884,Project Manager,Hooli,"Jaipur, Rajasthan",7.0
+CAND_0009539,0.7012,0.7306,0.3333,1.0,0.811,Mechanical Engineer,Hooli,"Mumbai, Maharashtra",7.0
+CAND_0011263,0.7012,0.7242,0.25,1.0,0.926,ML Engineer,Ola,"Pune, Maharashtra",5.1
+CAND_0063737,0.7011,0.7256,0.25,1.0,0.923,HR Manager,Pied Piper,"Hyderabad, Telangana",7.7
+CAND_0052743,0.7011,0.718,0.4167,0.8,0.928,Operations Manager,Hooli,"Delhi, Delhi",4.7
+CAND_0033385,0.7006,0.6807,0.3333,1.0,0.895,HR Manager,Initech,"Hyderabad, Telangana",6.0
+CAND_0078492,0.7004,0.7655,0.25,0.85,1.0,Recommendation Systems Engineer,Verloop.io,"Kochi, Kerala",5.1
+CAND_0078425,0.7003,0.726,0.4167,0.85,0.86,Sales Executive,Dunder Mifflin,"Jaipur, Rajasthan",5.0
+CAND_0029825,0.7002,0.7109,0.4167,1.0,0.736,Marketing Manager,Stark Industries,"Noida, Uttar Pradesh",5.6
+CAND_0026791,0.7002,0.7299,0.4167,0.85,0.853,Content Writer,Hooli,"Gurgaon, Haryana",5.7
+CAND_0043676,0.7001,0.7384,0.1667,1.0,1.0,Senior Software Engineer (ML),Observe.AI,"Delhi, Delhi",6.1
+CAND_0056541,0.7,0.7274,0.4167,0.85,0.856,Sales Executive,Globex Inc,"Ahmedabad, Gujarat",8.3
+CAND_0007978,0.6999,0.7305,0.4167,0.7,1.0,Business Analyst,TCS,"Hyderabad, Telangana",7.6
+CAND_0090584,0.6998,0.7396,0.25,1.0,0.892,ML Engineer,Flipkart,"Pune, Maharashtra",5.1
+CAND_0001537,0.6998,0.7305,0.4167,0.7,1.0,Project Manager,Stark Industries,London,6.3
+CAND_0010202,0.6997,0.7208,0.4167,1.0,0.716,Accountant,Wayne Enterprises,"Hyderabad, Telangana",7.8
+CAND_0035460,0.6997,0.7182,0.4167,0.85,0.871,Project Manager,Stark Industries,"Ahmedabad, Gujarat",5.2
+CAND_0077991,0.6996,0.711,0.4167,0.85,0.883,Sales Executive,Globex Inc,"Bhubaneswar, Odisha",8.7
+CAND_0000664,0.6996,0.7185,0.25,1.0,0.928,Accountant,Dunder Mifflin,"Hyderabad, Telangana",7.4
+CAND_0030364,0.6995,0.7297,0.3333,1.0,0.804,Civil Engineer,Acme Corp,"Noida, Uttar Pradesh",6.3
+CAND_0090376,0.6995,0.7302,0.25,1.0,0.907,Operations Manager,Dunder Mifflin,"Mumbai, Maharashtra",5.4
+CAND_0060538,0.6995,0.7474,0.25,1.0,0.877,ML Engineer,Verloop.io,"Pune, Maharashtra",5.2
+CAND_0065430,0.6995,0.732,0.3333,0.8,1.0,ML Engineer,Mad Street Den,"Mumbai, Maharashtra",4.4
+CAND_0000859,0.6993,0.716,0.25,1.0,0.931,Senior Software Engineer,Vedantu,"Delhi, Delhi",5.9
+CAND_0052169,0.6993,0.7251,0.4167,0.8,0.907,ML Engineer,Flipkart,"Delhi, Delhi",4.1
+CAND_0042029,0.6991,0.7897,0.25,1.0,0.801,Senior Data Scientist,Flipkart,"Delhi, Delhi",6.5
+CAND_0064615,0.699,0.6904,0.4167,0.85,0.916,Marketing Manager,Globex Inc,"Vizag, Andhra Pradesh",8.1
+CAND_0043829,0.699,0.7683,0.3333,0.8,0.934,AI Research Engineer,Observe.AI,"Bangalore, Karnataka",4.8
+CAND_0094891,0.6989,0.735,0.1667,1.0,1.0,Data Engineer,Paytm,"Pune, Maharashtra",5.8
+CAND_0014942,0.6988,0.6751,0.25,1.0,1.0,Frontend Engineer,Flipkart,"Hyderabad, Telangana",9.0
+CAND_0024327,0.6988,0.6995,0.3333,1.0,0.853,Mechanical Engineer,Stark Industries,"Noida, Uttar Pradesh",6.8
+CAND_0015760,0.6987,0.7319,0.4167,0.8,0.892,AI Research Engineer,InMobi,"Delhi, Delhi",4.4
+CAND_0018888,0.6986,0.7516,0.25,1.0,0.865,AI Research Engineer,Razorpay,"Noida, Uttar Pradesh",6.5
+CAND_0077219,0.6985,0.7193,0.4167,1.0,0.713,Project Manager,Initech,"Hyderabad, Telangana",5.4
+CAND_0082062,0.6982,0.7247,0.25,1.0,0.91,Business Analyst,Wayne Enterprises,"Noida, Uttar Pradesh",7.3
+CAND_0088385,0.6982,0.7472,0.25,1.0,0.871,Computer Vision Engineer,Swiggy,"Bangalore, Karnataka",7.0
+CAND_0098454,0.6982,0.759,0.25,0.85,1.0,AI Specialist,Meesho,"Indore, Madhya Pradesh",6.6
+CAND_0076251,0.6981,0.7856,0.25,0.85,0.953,Search Engineer,Haptik,"Bhubaneswar, Odisha",7.6
+CAND_0049668,0.698,0.699,0.3333,0.85,1.0,Data Analyst,Razorpay,"Gurgaon, Haryana",6.7
+CAND_0017557,0.698,0.7276,0.25,1.0,0.904,Customer Support,Dunder Mifflin,"Hyderabad, Telangana",8.0
+CAND_0019183,0.6979,0.682,0.4167,1.0,0.775,Civil Engineer,Acme Corp,"Mumbai, Maharashtra",7.6
+CAND_0077081,0.6979,0.7122,0.4167,0.8,0.922,Sales Executive,Stark Industries,"Hyderabad, Telangana",9.9
+CAND_0035945,0.6977,0.7118,0.4167,1.0,0.722,Marketing Manager,Initech,"Noida, Uttar Pradesh",8.4
+CAND_0093107,0.6977,0.7193,0.3333,0.85,0.963,Accountant,Pied Piper,"Chennai, Tamil Nadu",6.8
+CAND_0082973,0.6975,0.774,0.4167,0.85,0.762,AI Specialist,Genpact AI,"Chandigarh, Chandigarh",6.4
+CAND_0044768,0.6974,0.7002,0.3333,1.0,0.845,Mechanical Engineer,Acme Corp,"Pune, Maharashtra",6.7
+CAND_0069578,0.6974,0.7313,0.25,1.0,0.895,Backend Engineer,Razorpay,"Delhi, Delhi",7.1
+CAND_0020350,0.6974,0.7568,0.25,0.85,1.0,AI Engineer,Zoho,"Jaipur, Rajasthan",5.8
+CAND_0099806,0.6974,0.8118,0.3333,0.65,1.0,AI Engineer,Mad Street Den,"Bhubaneswar, Odisha",4.6
+CAND_0003841,0.6973,0.7304,0.1667,1.0,1.0,ML Engineer,Tech Mahindra,"Pune, Maharashtra",5.0
+CAND_0084819,0.6973,0.7962,0.4167,0.65,0.922,Search Engineer,Dream11,"Indore, Madhya Pradesh",4.5
+CAND_0075318,0.6972,0.7327,0.4167,1.0,0.683,Operations Manager,Initech,"Noida, Uttar Pradesh",9.0
+CAND_0017495,0.6972,0.7246,0.4167,0.85,0.847,Operations Manager,Stark Industries,"Kolkata, West Bengal",8.9
+CAND_0005509,0.6972,0.7301,0.1667,1.0,1.0,Data Scientist,Ola,"Noida, Uttar Pradesh",6.0
+CAND_0051461,0.6971,0.6857,0.3333,1.0,0.869,Content Writer,Hooli,"Bangalore, Karnataka",6.5
+CAND_0029889,0.6971,0.7153,0.4167,1.0,0.713,Content Writer,Wayne Enterprises,"Mumbai, Maharashtra",7.5
+CAND_0024921,0.697,0.6744,0.4167,0.85,0.934,Data Engineer,PharmEasy,"Chennai, Tamil Nadu",7.4
+CAND_0062707,0.697,0.7591,0.3333,0.85,0.89,Senior Software Engineer (ML),Locobuzz,"Kolkata, West Bengal",5.6
+CAND_0064217,0.6968,0.6923,0.3333,1.0,0.856,Operations Manager,Dunder Mifflin,"Noida, Uttar Pradesh",8.2
+CAND_0061969,0.6968,0.765,0.1667,1.0,0.937,Senior Data Engineer,Swiggy,"Pune, Maharashtra",6.7
+CAND_0069638,0.6968,0.7552,0.25,0.85,1.0,Computer Vision Engineer,Swiggy,"Chennai, Tamil Nadu",6.2
+CAND_0094809,0.6967,0.7336,0.3333,0.85,0.933,Project Manager,Globex Inc,"Chandigarh, Chandigarh",8.5
+CAND_0068932,0.6966,0.7285,0.1667,1.0,1.0,ML Engineer,Krutrim,"Noida, Uttar Pradesh",5.2
+CAND_0065153,0.6964,0.6946,0.3333,0.85,1.0,Operations Manager,Pied Piper,"Ahmedabad, Gujarat",5.6
+CAND_0005510,0.6964,0.7148,0.4167,0.85,0.86,Marketing Manager,Pied Piper,"Bhubaneswar, Odisha",6.2
+CAND_0000969,0.6964,0.7539,0.25,0.85,1.0,AI Specialist,Vedantu,"Coimbatore, Tamil Nadu",5.5
+CAND_0010685,0.6962,0.7534,0.25,0.85,1.0,NLP Engineer,Rephrase.ai,"Kolkata, West Bengal",6.7
+CAND_0094943,0.6961,0.7175,0.4167,1.0,0.704,HR Manager,Pied Piper,"Noida, Uttar Pradesh",5.2
+CAND_0096099,0.696,0.7401,0.4167,0.85,0.814,Accountant,Acme Corp,"Coimbatore, Tamil Nadu",8.3
+CAND_0041294,0.6959,0.6628,0.4167,1.0,0.799,Graphic Designer,Pied Piper,"Delhi, Delhi",9.0
+CAND_0015057,0.6959,0.7474,0.3333,0.8,0.955,ML Engineer,Meesho,"Pune, Maharashtra",4.6
+CAND_0052706,0.6959,0.7526,0.25,0.85,1.0,AI Research Engineer,Swiggy,"Coimbatore, Tamil Nadu",5.1
+CAND_0038247,0.6958,0.7017,0.4167,1.0,0.73,Content Writer,Wayne Enterprises,"Hyderabad, Telangana",8.8
+CAND_0074786,0.6958,0.6869,0.3333,1.0,0.86,HR Manager,Initech,"Bangalore, Karnataka",6.1
+CAND_0099581,0.6957,0.7657,0.25,1.0,0.826,AI Specialist,upGrad,"Delhi, Delhi",6.4
+CAND_0029367,0.6957,0.7652,0.1667,1.0,0.931,Senior Data Scientist,Rephrase.ai,"Bangalore, Karnataka",5.7
+CAND_0082086,0.6957,0.7852,0.0833,1.0,1.0,Senior Software Engineer (ML),Razorpay,"Delhi, Delhi",6.0
+CAND_0092498,0.6956,0.6965,0.4167,1.0,0.738,Sales Executive,Initech,"Delhi, Delhi",5.7
+CAND_0005193,0.6955,0.7253,0.1667,1.0,1.0,Senior Software Engineer,Acme Corp,"Hyderabad, Telangana",6.2
+CAND_0068896,0.6954,0.7124,0.25,1.0,0.918,Business Analyst,Stark Industries,"Delhi, Delhi",5.3
+CAND_0035879,0.6953,0.7507,0.3333,0.8,0.946,AI Research Engineer,Krutrim,"Noida, Uttar Pradesh",4.5
+CAND_0072609,0.6952,0.7086,0.4167,0.85,0.865,Operations Manager,Globex Inc,"Gurgaon, Haryana",8.9
+CAND_0048375,0.6951,0.7455,0.4167,0.65,1.0,Computer Vision Engineer,Saarthi.ai,"Indore, Madhya Pradesh",4.4
+CAND_0023030,0.695,0.6642,0.25,1.0,1.0,Content Writer,Dunder Mifflin,"Delhi, Delhi",5.8
+CAND_0048774,0.695,0.7227,0.25,1.0,0.898,Senior Data Engineer,PhonePe,"Noida, Uttar Pradesh",7.1
+CAND_0089464,0.6949,0.7104,0.25,1.0,0.919,Data Engineer,Zoho,"Noida, Uttar Pradesh",6.1
+CAND_0041211,0.6949,0.7243,0.4167,0.85,0.836,HR Manager,Dunder Mifflin,"Chennai, Tamil Nadu",9.0
+CAND_0056302,0.6948,0.7248,0.3333,1.0,0.789,Mechanical Engineer,Pied Piper,"Mumbai, Maharashtra",7.8
+CAND_0018924,0.6947,0.7098,0.25,1.0,0.919,Mechanical Engineer,Globex Inc,"Delhi, Delhi",6.2
+CAND_0018536,0.6945,0.7298,0.25,1.0,0.883,Customer Support,Acme Corp,"Hyderabad, Telangana",8.6
+CAND_0015581,0.6944,0.7631,0.25,0.85,0.974,Senior Software Engineer (ML),Niramai,"Coimbatore, Tamil Nadu",6.0
+CAND_0096655,0.6942,0.7215,0.1667,1.0,1.0,Junior ML Engineer,Genpact AI,"Hyderabad, Telangana",5.9
+CAND_0059678,0.6942,0.7144,0.4167,0.7,1.0,HR Manager,Initech,San Francisco,5.5
+CAND_0037216,0.6941,0.6619,0.25,1.0,1.0,Cloud Engineer,Wayne Enterprises,"Pune, Maharashtra",8.3
+CAND_0067112,0.6941,0.6878,0.3333,0.85,1.0,Accountant,Acme Corp,"Kolkata, West Bengal",6.3
+CAND_0086151,0.694,0.7699,0.3333,0.85,0.856,Recommendation Systems Engineer,Wysa,"Vizag, Andhra Pradesh",7.7
+CAND_0056327,0.6939,0.7022,0.3333,1.0,0.824,Operations Manager,Dunder Mifflin,"Pune, Maharashtra",6.4
+CAND_0045094,0.6939,0.7262,0.3333,0.85,0.932,Accountant,Initech,"Ahmedabad, Gujarat",8.8
+CAND_0072491,0.6937,0.713,0.25,1.0,0.908,Accountant,Hooli,"Mumbai, Maharashtra",7.1
+CAND_0005895,0.6937,0.7187,0.25,1.0,0.898,Analytics Engineer,PharmEasy,"Hyderabad, Telangana",5.5
+CAND_0036644,0.6937,0.7032,0.3333,0.85,0.971,Business Analyst,Stark Industries,"Kolkata, West Bengal",7.6
+CAND_0002876,0.6936,0.6963,0.25,1.0,0.937,Software Engineer,Mindtree,"Noida, Uttar Pradesh",5.7
+CAND_0095048,0.6936,0.7007,0.4167,0.85,0.871,Civil Engineer,Acme Corp,"Trivandrum, Kerala",7.8
+CAND_0080549,0.6934,0.7134,0.3333,1.0,0.802,Sales Executive,Acme Corp,"Bangalore, Karnataka",8.9
+CAND_0068264,0.6933,0.72,0.3333,1.0,0.79,HR Manager,Dunder Mifflin,"Pune, Maharashtra",9.0
+CAND_0066035,0.6933,0.7417,0.3333,0.85,0.902,Data Scientist,Razorpay,"Kolkata, West Bengal",6.7
+CAND_0061649,0.6932,0.7111,0.3333,1.0,0.805,Business Analyst,Initech,"Bangalore, Karnataka",7.2
+CAND_0011327,0.6932,0.745,0.25,0.85,1.0,AI Research Engineer,Krutrim,"Gurgaon, Haryana",6.3
+CAND_0086479,0.6931,0.7313,0.4167,1.0,0.665,Accountant,Acme Corp,"Delhi, Delhi",5.0
+CAND_0060624,0.6931,0.6852,0.3333,0.85,1.0,HR Manager,Initech,"Gurgaon, Haryana",6.1
+CAND_0036121,0.6929,0.7147,0.3333,0.85,0.947,ML Engineer,Wysa,"Chennai, Tamil Nadu",5.2
+CAND_0094799,0.6929,0.7178,0.1667,1.0,1.0,Backend Engineer,Pied Piper,"Noida, Uttar Pradesh",6.1
+CAND_0092195,0.6928,0.7178,0.4167,0.8,0.887,Business Analyst,Globex Inc,"Pune, Maharashtra",9.4
+CAND_0038099,0.6928,0.7168,0.3333,0.85,0.943,Junior ML Engineer,Locobuzz,"Bhubaneswar, Odisha",5.4
+CAND_0028971,0.6928,0.7348,0.4167,0.8,0.857,Project Manager,Stark Industries,"Pune, Maharashtra",9.3
+CAND_0033350,0.6927,0.7096,0.3333,0.85,0.955,Data Scientist,upGrad,"Coimbatore, Tamil Nadu",6.2
+CAND_0035477,0.6926,0.7327,0.4167,0.85,0.81,Customer Support,Globex Inc,"Trivandrum, Kerala",5.9
+CAND_0022589,0.6926,0.7666,0.1667,1.0,0.913,Senior Software Engineer,Tech Mahindra,"Delhi, Delhi",6.4
+CAND_0065195,0.6925,0.8024,0.1667,0.85,1.0,Search Engineer,CRED,"Kolkata, West Bengal",5.1
+CAND_0023458,0.6924,0.7427,0.25,0.85,1.0,AI Research Engineer,BYJU'S,"Chandigarh, Chandigarh",5.0
+CAND_0046511,0.6921,0.6913,0.4167,1.0,0.73,Accountant,Pied Piper,"Mumbai, Maharashtra",7.2
+CAND_0060054,0.6921,0.7657,0.25,0.85,0.958,AI Engineer,Mad Street Den,"Jaipur, Rajasthan",6.4
+CAND_0094759,0.692,0.8081,0.25,1.0,0.733,Lead AI Engineer,Meta,"Mumbai, Maharashtra",8.6
+CAND_0082137,0.6919,0.7175,0.4167,1.0,0.683,Operations Manager,Globex Inc,"Hyderabad, Telangana",7.4
+CAND_0053608,0.6918,0.6552,0.25,1.0,1.0,Data Analyst,Mphasis,"Bangalore, Karnataka",6.6
+CAND_0062561,0.6918,0.7409,0.25,0.85,1.0,ML Engineer,Razorpay,"Bhubaneswar, Odisha",5.9
+CAND_0030459,0.6918,0.7637,0.25,0.85,0.96,Senior Software Engineer,Mphasis,"Trivandrum, Kerala",6.1
+CAND_0086512,0.6916,0.7237,0.3333,1.0,0.775,Marketing Manager,Wayne Enterprises,"Delhi, Delhi",5.2
+CAND_0000683,0.6915,0.6928,0.4167,0.85,0.874,Graphic Designer,Dunder Mifflin,"Trivandrum, Kerala",6.2
+CAND_0060315,0.6915,0.7772,0.1667,1.0,0.889,Senior Software Engineer (ML),Glance,"Bangalore, Karnataka",5.4
+CAND_0069925,0.6913,0.7143,0.3333,1.0,0.79,Junior ML Engineer,Glance,"Mumbai, Maharashtra",5.3
+CAND_0091254,0.6912,0.7624,0.25,0.85,0.959,AI Research Engineer,Zoho,"Chandigarh, Chandigarh",5.2
+CAND_0021464,0.6911,0.7357,0.4167,1.0,0.647,Project Manager,Wayne Enterprises,"Delhi, Delhi",8.2
+CAND_0056356,0.6911,0.7068,0.4167,0.85,0.848,Graphic Designer,Stark Industries,"Chandigarh, Chandigarh",6.2
+CAND_0022260,0.691,0.7146,0.3333,0.85,0.938,Project Manager,Stark Industries,"Gurgaon, Haryana",6.7
+CAND_0036177,0.6909,0.6898,0.25,1.0,0.935,Analytics Engineer,Ola,"Hyderabad, Telangana",6.0
+CAND_0067952,0.6908,0.6524,0.25,1.0,1.0,Full Stack Developer,Initech,"Noida, Uttar Pradesh",9.0
+CAND_0024216,0.6908,0.7311,0.4167,1.0,0.654,Operations Manager,Pied Piper,"Delhi, Delhi",7.1
+CAND_0077067,0.6908,0.767,0.25,0.85,0.949,AI Specialist,PolicyBazaar,"Kochi, Kerala",5.4
+CAND_0070202,0.6908,0.8017,0.4167,0.85,0.68,Machine Learning Engineer,BYJU'S,"Jaipur, Rajasthan",5.1
+CAND_0022721,0.6907,0.693,0.4167,1.0,0.72,Accountant,Acme Corp,"Mumbai, Maharashtra",8.2
+CAND_0053591,0.6906,0.7637,0.3333,0.7,1.0,AI Engineer,Ola,Toronto,5.3
+CAND_0031862,0.6905,0.7291,0.3333,1.0,0.76,Civil Engineer,Dunder Mifflin,"Noida, Uttar Pradesh",5.2
+CAND_0048413,0.6905,0.725,0.25,1.0,0.871,Analytics Engineer,Zomato,"Hyderabad, Telangana",5.3
+CAND_0072660,0.6905,0.7633,0.3333,0.7,1.0,Machine Learning Engineer,Unacademy,Berlin,7.1
+CAND_0013842,0.6904,0.7283,0.3333,0.85,0.911,Civil Engineer,Stark Industries,"Coimbatore, Tamil Nadu",8.4
+CAND_0010149,0.6904,0.7416,0.1667,1.0,0.946,ML Engineer,Glance,"Bangalore, Karnataka",6.9
+CAND_0036498,0.6904,0.7264,0.4167,0.7,0.96,Customer Support,Globex Inc,New York,8.2
+CAND_0008810,0.6903,0.74,0.25,1.0,0.844,Customer Support,Hooli,"Noida, Uttar Pradesh",7.2
+CAND_0046356,0.6902,0.7019,0.25,1.0,0.91,Data Engineer,Mindtree,"Noida, Uttar Pradesh",6.7
+CAND_0090361,0.6902,0.7459,0.4167,0.85,0.775,Customer Support,Acme Corp,"Kochi, Kerala",8.8
+CAND_0066791,0.6902,0.75,0.25,1.0,0.826,Senior Software Engineer (ML),Krutrim,"Pune, Maharashtra",5.6
+CAND_0087630,0.6902,0.7711,0.3333,0.85,0.835,AI Engineer,Vedantu,"Gurgaon, Haryana",7.2
+CAND_0071300,0.6901,0.7032,0.4167,1.0,0.699,Sales Executive,Acme Corp,"Hyderabad, Telangana",9.0
+CAND_0052016,0.6901,0.7262,0.3333,0.85,0.913,Business Analyst,Hooli,"Coimbatore, Tamil Nadu",5.9
+CAND_0081686,0.6901,0.7753,0.4167,0.7,0.873,Search Engineer,Netflix,Austin,6.0
+CAND_0049246,0.69,0.6996,0.4167,1.0,0.705,Business Analyst,Wayne Enterprises,"Noida, Uttar Pradesh",8.2
+CAND_0026621,0.69,0.7104,0.4167,1.0,0.686,Operations Manager,Initech,"Pune, Maharashtra",8.2
+CAND_0017053,0.69,0.7023,0.4167,0.7,1.0,Sales Executive,Wipro,"Pune, Maharashtra",8.6
+CAND_0023889,0.69,0.7249,0.3333,0.8,0.965,HR Manager,Acme Corp,"Noida, Uttar Pradesh",4.5
+CAND_0054100,0.69,0.7356,0.25,0.85,1.0,Junior ML Engineer,Zoho,"Kolkata, West Bengal",6.0
+CAND_0000821,0.6897,0.6908,0.4167,1.0,0.719,Mechanical Engineer,Wayne Enterprises,"Pune, Maharashtra",6.9
+CAND_0058516,0.6897,0.6872,0.4167,0.8,0.925,Graphic Designer,Wayne Enterprises,"Mumbai, Maharashtra",9.9
+CAND_0058263,0.6897,0.7253,0.1667,1.0,0.971,Analytics Engineer,Nykaa,"Hyderabad, Telangana",7.3
+CAND_0081008,0.6894,0.6868,0.4167,0.85,0.874,HR Manager,Hooli,"Vizag, Andhra Pradesh",6.5
+CAND_0049561,0.6894,0.7196,0.3333,1.0,0.771,Business Analyst,Globex Inc,"Noida, Uttar Pradesh",6.7
+CAND_0071544,0.6894,0.7431,0.25,1.0,0.834,Computer Vision Engineer,Mad Street Den,"Bangalore, Karnataka",5.0
+CAND_0070225,0.6894,0.7392,0.3333,0.85,0.887,ML Engineer,Swiggy,"Kolkata, West Bengal",6.0
+CAND_0078319,0.6894,0.7283,0.3333,0.8,0.956,Project Manager,Acme Corp,"Mumbai, Maharashtra",9.3
+CAND_0065293,0.6894,0.7386,0.3333,0.8,0.938,Civil Engineer,Acme Corp,"Noida, Uttar Pradesh",10.2
+CAND_0006007,0.6892,0.7271,0.3333,1.0,0.757,Sales Executive,Wayne Enterprises,"Mumbai, Maharashtra",5.5
+CAND_0002177,0.6891,0.7147,0.3333,0.85,0.928,Sales Executive,Initech,"Jaipur, Rajasthan",5.0
+CAND_0014234,0.6891,0.7331,0.25,0.85,1.0,Junior ML Engineer,Tech Mahindra,"Indore, Madhya Pradesh",5.4
+CAND_0037242,0.689,0.7118,0.25,1.0,0.887,Graphic Designer,Pied Piper,"Delhi, Delhi",5.9
+CAND_0054768,0.689,0.7315,0.4167,0.8,0.844,Content Writer,Wayne Enterprises,"Mumbai, Maharashtra",11.0
+CAND_0012279,0.6889,0.6993,0.4167,0.85,0.85,Graphic Designer,Acme Corp,"Indore, Madhya Pradesh",9.0
+CAND_0024990,0.6889,0.7326,0.25,0.85,1.0,Junior ML Engineer,Zoho,"Trivandrum, Kerala",5.2
+CAND_0064888,0.6889,0.7325,0.25,0.85,1.0,ML Engineer,Verloop.io,"Vizag, Andhra Pradesh",5.8
+CAND_0098723,0.6886,0.7253,0.4167,1.0,0.653,Business Analyst,Stark Industries,"Delhi, Delhi",5.5
+CAND_0012256,0.6886,0.7316,0.25,0.85,1.0,Mechanical Engineer,Initech,"Indore, Madhya Pradesh",6.4
+CAND_0040186,0.6885,0.706,0.4167,1.0,0.686,Operations Manager,Initech,"Noida, Uttar Pradesh",8.1
+CAND_0070653,0.6885,0.7555,0.25,1.0,0.808,AI Specialist,Dream11,"Delhi, Delhi",5.0
+CAND_0017590,0.6885,0.7497,0.25,0.85,0.968,AI Research Engineer,Genpact AI,"Kolkata, West Bengal",5.1
+CAND_0008239,0.6885,0.7863,0.3333,0.65,1.0,AI Engineer,Apple,"Jaipur, Rajasthan",4.0
+CAND_0088457,0.6884,0.716,0.4167,1.0,0.668,Marketing Manager,Acme Corp,"Delhi, Delhi",5.6
+CAND_0010283,0.6884,0.7225,0.25,1.0,0.865,AI Specialist,Saarthi.ai,"Mumbai, Maharashtra",5.3
+CAND_0074486,0.6884,0.746,0.1667,1.0,0.928,Computer Vision Engineer,Nykaa,"Noida, Uttar Pradesh",5.5
+CAND_0094728,0.6884,0.7607,0.3333,0.85,0.844,AI Specialist,Swiggy,"Chennai, Tamil Nadu",6.5
+CAND_0063328,0.6884,0.7596,0.3333,0.8,0.896,Computer Vision Engineer,Ola,"Delhi, Delhi",4.6
+CAND_0025882,0.6884,0.7907,0.1667,0.85,1.0,Senior Software Engineer (ML),Freshworks,"Chennai, Tamil Nadu",5.6
+CAND_0034369,0.6883,0.7227,0.4167,1.0,0.656,Project Manager,Globex Inc,"Noida, Uttar Pradesh",6.4
+CAND_0084878,0.6883,0.7394,0.3333,1.0,0.731,Operations Manager,Acme Corp,"Mumbai, Maharashtra",6.4
+CAND_0008521,0.6882,0.6666,0.25,1.0,0.962,Java Developer,Hooli,"Pune, Maharashtra",8.4
+CAND_0060726,0.6881,0.7098,0.25,1.0,0.886,HR Manager,Dunder Mifflin,"Noida, Uttar Pradesh",6.8
+CAND_0012051,0.688,0.7063,0.4167,1.0,0.683,Operations Manager,Hooli,"Hyderabad, Telangana",8.9
+CAND_0030686,0.6879,0.7076,0.4167,1.0,0.68,Project Manager,Dunder Mifflin,"Hyderabad, Telangana",8.0
+CAND_0022484,0.6879,0.6988,0.3333,0.8,1.0,Mechanical Engineer,Dunder Mifflin,"Noida, Uttar Pradesh",4.1
+CAND_0099054,0.6876,0.7327,0.4167,1.0,0.635,Mechanical Engineer,Globex Inc,"Hyderabad, Telangana",8.6
+CAND_0051772,0.6876,0.732,0.4167,0.85,0.786,Accountant,Hooli,"Kolkata, West Bengal",8.5
+CAND_0094400,0.6876,0.7493,0.25,1.0,0.814,Computer Vision Engineer,Verloop.io,"Hyderabad, Telangana",5.5
+CAND_0014440,0.6876,0.7928,0.1667,0.85,0.992,Recommendation Systems Engineer,CRED,"Chennai, Tamil Nadu",6.4
+CAND_0066302,0.6875,0.7033,0.4167,1.0,0.686,Civil Engineer,Initech,"Bangalore, Karnataka",8.9
+CAND_0058506,0.6875,0.6704,0.25,1.0,0.952,Full Stack Developer,Stark Industries,"Mumbai, Maharashtra",5.8
+CAND_0080589,0.6875,0.739,0.25,1.0,0.832,Computer Vision Engineer,Niramai,"Mumbai, Maharashtra",5.7
+CAND_0061738,0.6873,0.668,0.25,1.0,0.955,.NET Developer,Stark Industries,"Bangalore, Karnataka",5.1
+CAND_0077503,0.6873,0.6955,0.25,1.0,0.907,Content Writer,Globex Inc,"Hyderabad, Telangana",5.5
+CAND_0042553,0.6872,0.6769,0.25,1.0,0.939,Software Engineer,Mphasis,"Noida, Uttar Pradesh",8.5
+CAND_0095392,0.6872,0.7314,0.4167,1.0,0.635,Marketing Manager,Wayne Enterprises,"Noida, Uttar Pradesh",6.5
+CAND_0007688,0.6872,0.7228,0.4167,0.65,1.0,Business Analyst,Wayne Enterprises,"Gurgaon, Haryana",10.0
+CAND_0078397,0.6871,0.6913,0.3333,0.85,0.959,Project Manager,Hooli,"Gurgaon, Haryana",8.7
+CAND_0002120,0.6871,0.7537,0.3333,0.7,1.0,ML Engineer,HCL,Berlin,6.5
+CAND_0038157,0.687,0.7018,0.4167,0.8,0.886,Content Writer,Globex Inc,"Hyderabad, Telangana",10.0
+CAND_0068843,0.6869,0.6913,0.4167,1.0,0.704,Civil Engineer,Wayne Enterprises,"Delhi, Delhi",5.3
+CAND_0019978,0.6869,0.7082,0.4167,0.85,0.824,Sales Executive,Dunder Mifflin,"Bhubaneswar, Odisha",5.1
+CAND_0073871,0.6869,0.7222,0.3333,0.85,0.904,Project Manager,Initech,"Indore, Madhya Pradesh",5.5
+CAND_0027801,0.6869,0.7605,0.1667,1.0,0.895,NLP Engineer,InMobi,"Hyderabad, Telangana",7.4
+CAND_0049538,0.6869,0.7748,0.25,0.85,0.916,Applied ML Engineer,Saarthi.ai,"Jaipur, Rajasthan",5.8
+CAND_0074653,0.6868,0.7002,0.1667,1.0,1.0,Accountant,Hooli,"Noida, Uttar Pradesh",7.5
+CAND_0049147,0.6868,0.7375,0.3333,1.0,0.727,Content Writer,Stark Industries,"Mumbai, Maharashtra",8.0
+CAND_0094019,0.6867,0.7268,0.3333,1.0,0.745,Sales Executive,Hooli,"Delhi, Delhi",5.5
+CAND_0083879,0.6867,0.7597,0.0833,1.0,1.0,Machine Learning Engineer,Ola,"Noida, Uttar Pradesh",7.1
+CAND_0033839,0.6867,0.7708,0.25,0.85,0.922,AI Specialist,Rephrase.ai,"Jaipur, Rajasthan",5.3
+CAND_0046924,0.6866,0.7619,0.3333,1.0,0.683,Computer Vision Engineer,PharmEasy,"Noida, Uttar Pradesh",6.3
+CAND_0033713,0.6866,0.726,0.25,0.85,1.0,Software Engineer,Vedantu,"Jaipur, Rajasthan",6.9
+CAND_0005269,0.6866,0.7922,0.25,0.85,0.884,Senior Software Engineer (ML),Sarvam AI,"Kochi, Kerala",6.1
+CAND_0021146,0.6865,0.6953,0.4167,1.0,0.695,Graphic Designer,Stark Industries,"Mumbai, Maharashtra",8.4
+CAND_0018549,0.6865,0.7851,0.1667,0.85,1.0,Recommendation Systems Engineer,Uber,"Coimbatore, Tamil Nadu",6.8
+CAND_0017379,0.6864,0.7037,0.1667,1.0,0.992,Data Engineer,Hooli,"Pune, Maharashtra",5.1
+CAND_0053492,0.6864,0.7373,0.4167,0.7,0.921,Content Writer,Initech,Sydney,7.6
+CAND_0075249,0.6864,0.7849,0.1667,0.85,1.0,Applied ML Engineer,Zomato,"Ahmedabad, Gujarat",6.2
+CAND_0051747,0.6863,0.7051,0.4167,1.0,0.677,Business Analyst,Dunder Mifflin,"Bangalore, Karnataka",5.5
+CAND_0085291,0.6863,0.6941,0.3333,0.8,1.0,Graphic Designer,Stark Industries,"Delhi, Delhi",9.5
+CAND_0006557,0.6863,0.7886,0.25,0.85,0.889,NLP Engineer,Paytm,"Jaipur, Rajasthan",7.9
+CAND_0014392,0.6862,0.7103,0.4167,0.85,0.817,Content Writer,Stark Industries,"Chennai, Tamil Nadu",5.0
+CAND_0061549,0.6861,0.7233,0.4167,0.8,0.844,Customer Support,Globex Inc,"Delhi, Delhi",10.3
+CAND_0056331,0.6859,0.6965,0.3333,0.85,0.944,Business Analyst,Dunder Mifflin,"Jaipur, Rajasthan",6.5
+CAND_0067717,0.6859,0.7404,0.3333,1.0,0.717,AI Specialist,Aganitha,"Noida, Uttar Pradesh",6.9
+CAND_0058606,0.6859,0.7296,0.3333,0.85,0.886,Analytics Engineer,PharmEasy,"Coimbatore, Tamil Nadu",5.1
+CAND_0006821,0.6859,0.7753,0.4167,0.85,0.702,Senior Software Engineer (ML),Unacademy,"Kolkata, West Bengal",5.0
+CAND_0059795,0.6859,0.7575,0.0833,1.0,1.0,Senior Software Engineer (ML),Locobuzz,"Mumbai, Maharashtra",5.6
+CAND_0078384,0.6858,0.7276,0.4167,1.0,0.635,HR Manager,Globex Inc,"Noida, Uttar Pradesh",5.4
+CAND_0073982,0.6857,0.7002,0.1667,1.0,0.995,Data Scientist,Dream11,"Delhi, Delhi",7.0
+CAND_0023934,0.6856,0.7232,0.25,0.85,1.0,Business Analyst,Acme Corp,"Indore, Madhya Pradesh",6.2
+CAND_0031581,0.6854,0.7112,0.1667,1.0,0.974,Project Manager,Stark Industries,"Mumbai, Maharashtra",6.1
+CAND_0072112,0.6853,0.7317,0.4167,0.85,0.775,Business Analyst,Acme Corp,"Chandigarh, Chandigarh",6.7
+CAND_0004393,0.6853,0.7334,0.4167,0.85,0.772,Sales Executive,Globex Inc,"Indore, Madhya Pradesh",7.3
+CAND_0031010,0.6853,0.7174,0.4167,0.65,1.0,Operations Manager,Dunder Mifflin,"Bhubaneswar, Odisha",10.2
+CAND_0044890,0.6853,0.7583,0.25,0.85,0.937,AI Research Engineer,Haptik,"Bhubaneswar, Odisha",5.0
+CAND_0013523,0.6852,0.7174,0.3333,0.85,0.904,Operations Manager,Globex Inc,"Bhubaneswar, Odisha",7.6
