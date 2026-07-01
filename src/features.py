@@ -191,26 +191,40 @@ def compute_structural_score(candidate: dict, jd_requirements: dict) -> float:
 def is_honeypot(candidate: dict) -> bool:
     """
     Detects profiles that are logically impossible — these are traps
-    planted in the dataset. If our system ranks these highly, we lose
-    points (or get disqualified). Returns True if this looks fake.
+    planted in the dataset. The spec says ~80 honeypots exist; they are
+    forced to relevance tier 0 in the ground truth. We must not rank
+    them in top 100 (>10% honeypot rate = disqualification).
 
-    CHECKS:
-      1. A single job lasting more than 20 years (240 months) — suspicious
-         for someone with relatively few total years of experience
-      2. Many skills marked "expert" with 0 months of actual usage
-         (you can't be an expert in something you've used for 0 months)
-      3. Total career history months wildly exceeds stated years_of_experience
+    CHECKS (three independent signals, any one triggers rejection):
+
+    1. A single job's duration exceeds the candidate's total stated
+       years of experience. E.g.: claimed 9.9 YoE, but one job lasted
+       166 months (13.8 years) — mathematically impossible.
+
+    2. Three or more skills listed as "expert" proficiency with 0 months
+       of actual usage. You cannot be an expert at something you've
+       never used.
+
+    3. Total career months across all jobs exceeds 2.2× the stated YoE.
+       This catches profiles where the numbers add up to more time than
+       the person claims to have worked.
     """
     career_history = candidate.get("career_history", [])
     skills = candidate.get("skills", [])
     profile = candidate.get("profile", {})
 
-    # Check 1: any single job absurdly long
-    for job in career_history:
-        if job.get("duration_months", 0) > 240:  # over 20 years at ONE job
-            return True
+    stated_years = profile.get("years_of_experience", 0)
+    stated_months = stated_years * 12
 
-    # Check 2: "expert" skills claimed with zero experience using them
+    # Check 1: a single job longer than their entire stated career
+    # Allow 5% slack for rounding; require >12 months stated experience
+    # to avoid flagging very new grads where numbers are inherently messy.
+    if stated_months > 12:
+        for job in career_history:
+            if job.get("duration_months", 0) > stated_months * 1.05:
+                return True
+
+    # Check 2: expert proficiency with zero months used (≥3 skills)
     expert_zero_months = [
         s for s in skills
         if s.get("proficiency") == "expert" and s.get("duration_months", 0) == 0
@@ -218,14 +232,10 @@ def is_honeypot(candidate: dict) -> bool:
     if len(expert_zero_months) >= 3:
         return True
 
-    # Check 3: total months worked vastly exceeds claimed years of experience
+    # Check 3: total career months > 2.2× stated experience
+    # (people can overlap roles, but 2.2× is pushing physical impossibility)
     total_months_worked = sum(job.get("duration_months", 0) for job in career_history)
-    stated_years = profile.get("years_of_experience", 0)
-    stated_months = stated_years * 12
-
-    # Allow some overlap (people sometimes have 2 jobs at once), but if total
-    # months worked is more than DOUBLE what they claim, it's suspicious
-    if stated_months > 0 and total_months_worked > (stated_months * 2.5):
+    if stated_months > 0 and total_months_worked > (stated_months * 2.2):
         return True
 
     return False
@@ -342,15 +352,15 @@ def compute_jd_embedding(jd_text: str) -> np.ndarray:
 # ═══════════════════════════════════════════════════════════════════
 # SECTION 7 — Behavioral score placeholder
 # ═══════════════════════════════════════════════════════════════════
-# NOTE: Full behavioral scoring lives in src/behavioral.py (teammate's file).
+# NOTE: Full behavioral scoring lives in src/behavioral.py.
 # This is a simple fallback so features.py can be tested standalone
 # before behavioral.py exists.
 
 def compute_behavioral_score_fallback(redrob_signals: dict) -> float:
     """
     Simple fallback behavioral score, used only if behavioral.py
-    isn't ready yet. Real version (with all 23 signals) is in
-    src/behavioral.py — written by your teammate.
+    isn't importable for some reason. Real version (with all 23
+    signals) is in src/behavioral.py.
     """
     score = 0.5  # neutral baseline
 
@@ -418,6 +428,5 @@ if __name__ == "__main__":
 
     print("\n" + "=" * 70)
     print("\nNOTE: semantic_score not tested here — it requires loading the")
-    print("embedding model which takes longer. That gets tested in rank.py")
-    print("(Step 1.3), which is the next file we build.")
+    print("embedding model which takes longer. That gets tested in rank.py.")
     print("\nIf the numbers above look reasonable, features.py is working correctly.")
